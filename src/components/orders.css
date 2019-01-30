@@ -1,0 +1,17 @@
+.man {
+    background-color: rgb(135, 164, 167);
+    color: aliceblue;
+    height: 50px;
+
+    text-align: center;
+    padding: 55px;
+    border-collapse: collapse;
+}
+
+.manoj {
+    background-color: #7FFFD4;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}

@@ -1,0 +1,14 @@
+.man{
+    background-color: rgb(148, 153, 153);
+color: black;
+height: auto;
+
+text-align: center;
+padding: 40px;
+border-collapse: collapse;
+}
+.manojk{
+    background-color:		rgba(31, 184, 171, 0.644);
+}
+tr:nth-child(even) {background-color: #f2f2f2;}
+
